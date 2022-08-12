@@ -6,8 +6,8 @@ My name is Shaharyar Sajid.
 - 📚 Bachelor of Computer and Information Science (2018-2022) 
 - 📚 Interests in Machine Learning, Deep Learning and Computer Vision.
 
-[![Mail Badge](https://img.shields.io/badge/-saeedahmad.icp@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saeedahmad.icp@gmail.com)](mailto:saeedahmad.icp@gmail.com)
-<a href="https://www.linkedin.com/in/saeedicp/">
+[![Mail Badge](https://img.shields.io/badge/-shaharyarsajid@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shaharyarsajid@gmail.com)](mailto:shaharyarsajid@gmail.com)
+<a href="https://www.linkedin.com/in/shaharyarsajid/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
