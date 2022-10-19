@@ -45,3 +45,5 @@ My name is Shaharyar Sajid.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laughing-Kid&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Laughing-Kid&theme=dracula&hide_border=true)
+
+![Shaharyar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laughing-Kid&show_icons=true&theme=radical)
