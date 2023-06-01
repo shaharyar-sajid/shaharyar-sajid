@@ -6,12 +6,19 @@ My name is Shaharyar Sajid.
 - 📚 Bachelor of Computer and Information Science (2018-2022) 
 - 📚 Interests in Machine Learning, Deep Learning and Computer Vision.
 
+<div align="center">
+    
 [![Mail Badge](https://img.shields.io/badge/-shaharyarsajid@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shaharyarsajid@gmail.com)](mailto:shaharyarsajid@gmail.com)
 <a href="https://www.linkedin.com/in/shaharyarsajid/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
+    
+Theory without practice is empty, practice without theory is blind.
+</div>
 
 ---
+
+<div align="center">
 
 🛠️ Languages and Tools
 <div>
@@ -35,8 +42,11 @@ My name is Shaharyar Sajid.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="60" height="60"/>&nbsp;
 </div>
+</div>
 
 ---
+
+<div align="center">
 
 📈 Stats 
 
@@ -44,6 +54,8 @@ My name is Shaharyar Sajid.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laughing-Kid&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Laughing-Kid&theme=dracula&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Laughing-Kid&theme=dracula&hide_border=true)
 
 ![Shaharyar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laughing-Kid&show_icons=true&theme=radical)
+    
+</div>
