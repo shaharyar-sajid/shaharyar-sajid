@@ -52,10 +52,10 @@ Theory without practice is empty, practice without theory is blind.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Laughing-Kid&theme=dark&background=000000&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laughing-Kid&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laughing-Kid&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Laughing-Kid&theme=dracula&hide_border=true)
 
-![Shaharyar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laughing-Kid&show_icons=true&theme=radical)
+![Shaharyar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laughing-Kid&show_icons=true&theme=radical) --->
     
 </div>
