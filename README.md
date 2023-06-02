@@ -1,5 +1,5 @@
 # Hello!
-# And Asalam o Alikum
+# And As-salamu Alaykum
 
 My name is Shaharyar Sajid.
 - 👨‍🎓 Bachelor Graduate from [Pakistan Institute of Engineering and Applied Science](http://www.pieas.edu.pk/)
