@@ -17,7 +17,7 @@ Theory without practice is empty, practice without theory is blind.
 </div>
 
 ---
-
+ 
 <div align="center">
 
 🛠️ Languages and Tools
